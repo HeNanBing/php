@@ -1,2 +1,2 @@
 # php
-php study
+日常php练习
